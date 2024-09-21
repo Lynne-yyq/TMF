@@ -1,12 +1,5 @@
 
 
-## Audio feature extraction code:
-https://github.com/qiuqiangkong/audioset_tagging_cnn
-
-## Video feature extraction code:
-https://github.com/v-iashin/video_features
-
-
 
 ## data
 ``` 
